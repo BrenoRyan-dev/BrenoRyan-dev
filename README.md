@@ -38,6 +38,8 @@
 - **[Pizzaria Planet](https://github.com/BrenoRyan-dev/PizzariaPlanet)**: site de pizzaria
 - **[Portfólio](https://github.com/BrenoRyan-dev/portifolio.com)**: meu portfólio profissional, publicado com GitHub Pages
 
+⏳ **Mais projetos em desenvolvimento. Em breve, novidades por aqui!**
+
 👉 Veja todos os projetos no [portfólio](https://brenoryan-dev.github.io/portifolio.com/#projetos).
 
 ---
@@ -49,4 +51,23 @@
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/breno-ryan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brenoryang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5531984531824">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/breno_ryan22/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">Atividade</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRyan-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
