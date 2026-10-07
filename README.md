@@ -63,11 +63,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-<h2 align="center">Atividade</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRyan-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
