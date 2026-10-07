@@ -1,4 +1,4 @@
-<h1 align="center">⭐ Olá, eu sou o Breno Ryan! ⭐</h1>
+<h1 align="center">  Breno Ryan! </h1>
 
 <h3 align="center">Desenvolvedor | Web, APIs, Banco de Dados e Integrações com IA</h3>
 
