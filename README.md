@@ -31,12 +31,12 @@
 
 <h2 align="center">Projetos em Destaque</h2>
 
-- **[Landing Page Hamburgueria](https://github.com/BrenoRyan-dev/Landing-page-hamburgue)**: landing page responsiva feita com HTML e CSS
-- **[Interface Museu](https://github.com/BrenoRyan-dev/Interface-Museu)**: interface de site para museu
-- **[Interface Informática](https://github.com/BrenoRyan-dev/interface-informatica)**: interface de site para loja de informática
-- **[Clone Starbucks](https://github.com/BrenoRyan-dev/Coppy-starbuks)**: recriação da página do Starbucks com CSS
-- **[Template Agência](https://github.com/BrenoRyan-dev/Templete-agencia)**: template de site para agência
-- **[Tarefas](https://github.com/BrenoRyan-dev/Tarefas)**: aplicação de lista de tarefas com JavaScript
+- **[ClimaCity](https://github.com/BrenoRyan-dev/climacity)**: aplicação em JavaScript para consultar o clima de cidades
+- **[Consultar CEP](https://github.com/BrenoRyan-dev/consultar-cep)**: busca de endereço a partir do CEP
+- **[Mine App - Supermercado](https://github.com/BrenoRyan-dev/Mine-app---supermecado)**: aplicação em JavaScript para supermercado
+- **[Tarefas](https://github.com/BrenoRyan-dev/Tarefas)**: lista de tarefas com JavaScript
+- **[Pizzaria Planet](https://github.com/BrenoRyan-dev/PizzariaPlanet)**: site de pizzaria
+- **[Portfólio](https://github.com/BrenoRyan-dev/portifolio.com)**: meu portfólio profissional, publicado com GitHub Pages
 
 👉 Veja todos os projetos no [portfólio](https://brenoryan-dev.github.io/portifolio.com/#projetos).
 
@@ -49,22 +49,4 @@
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/breno-ryan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brenoryang@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5531984531824">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/breno_ryan22/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">Atividade</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRyan-dev&show_icons=true&theme=tokyonight&hide_b
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
